@@ -26,7 +26,7 @@ if start_date > (compact_data_date):
 else:
     key_data = 'full'
 
-ts = TimeSeries(key = 'CDJRUJTR7IWQKE99', output_format = 'pandas')
+ts = TimeSeries(key = 'XXXXXXXXXX', output_format = 'pandas')
 
 stock = input("Add the first ticker: ").upper()
 stock2 = input("Add the second ticker: ").upper()
