@@ -6,13 +6,15 @@ This script get two dataframes with stock prices from a Python wrapper (<a href=
 
 To properly run it needs some Python libraries also listed in the prerequisitie file.
 
-<a href="https://www.alphavantage.co/support/#api-key">API Keys</a>
-<a href="https://github.com/RomelTorres/alpha_vantage">Alpha Vantage</a>
-matplotlib.pyplot
-pandas
-numpy
-datetime
-requests
+ <ul>
+  <li><a href="https://www.alphavantage.co/support/#api-key">API Keys</a></li>
+  <li><a href="https://github.com/RomelTorres/alpha_vantage">Alpha Vantage</a></li>
+  <li>matplotlib</li>
+  <li>pandas</li>
+  <li>numpy</li>
+  <li>datetime</li>
+  <li>requests</li>
+</ul> 
 
 <b>Output</b>
 
