@@ -4,7 +4,7 @@ This script get two dataframes with stock prices from a Python wrapper (<a href=
 
 <b>Prerequisites</b>
 
-To properly run it needs some Python libraries also listed in the prerequisitie file.
+To properly run it needs some Python libraries listed below and the API keys:
 
  <ul>
   <li><a href="https://www.alphavantage.co/support/#api-key">API Keys</a></li>
