@@ -1,4 +1,4 @@
-# Symple stock prices comparison
+# Simple stock prices comparison
 
 This script get two dataframes with stock prices from a Python wrapper (<a href="https://github.com/RomelTorres/alpha_vantage">Github repo</a>) for <a href="https://www.alphavantage.co/">Alpha Vantage</a>. The documentation can be found <a href="https://alpha-vantage.readthedocs.io/en/latest/">here</a>.
 
