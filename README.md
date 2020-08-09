@@ -19,6 +19,10 @@ To properly run it needs some Python libraries also listed in the prerequisitie 
 <b>Output</b>
 
 The script will just output a simple line graph with the trend between the selected start date and today. Both series have been scaled so both will start at 100.
+A couple of additional information will be added regarding start and end price since otherwise the only info available is the scaled price.
+
+Microsoft Corporation start value $46.76 on 2015-01-01. End value $212.48 on 2020-08-07.
+Apple Inc. start value $109.33 on 2015-01-01. End value $444.45 on 2020-08-07.
 
 <img src="https://raw.githubusercontent.com/FilippoGalanti/covid19/master/Covid19_Continents.png" alt="Output Example">
 
