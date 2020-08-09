@@ -24,7 +24,7 @@ A couple of additional information will be added regarding start and end price s
 Microsoft Corporation start value $46.76 on 2015-01-01. End value $212.48 on 2020-08-07.
 Apple Inc. start value $109.33 on 2015-01-01. End value $444.45 on 2020-08-07.
 </PRE> 
-<img src="https://raw.githubusercontent.com/FilippoGalanti/covid19/master/Covid19_Continents.png" alt="Output Example">
+<img src="https://raw.githubusercontent.com/FilippoGalanti/symple-stock-comparison/master/MSFT%20AAPL.png" alt="Output Example">
 
 <b>Issues and Future Developments</b>
 
