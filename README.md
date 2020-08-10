@@ -2,6 +2,8 @@
 
 This script get two dataframes with stock prices from a Python wrapper (<a href="https://github.com/RomelTorres/alpha_vantage">Github repo</a>) for <a href="https://www.alphavantage.co/">Alpha Vantage</a>. The documentation can be found <a href="https://alpha-vantage.readthedocs.io/en/latest/">here</a>.
 
+I recently add a second script (stock_market_plotly) that uses plotly instead of matplotlib to plot the graph. This will output a .html graph.
+
 <b>Prerequisites</b>
 
 To properly run it needs some Python libraries listed below and the API keys:
@@ -14,6 +16,7 @@ To properly run it needs some Python libraries listed below and the API keys:
   <li>numpy</li>
   <li>datetime</li>
   <li>requests</li>
+  <li>plotly (for the second version of the script)</li>
 </ul> 
 
 <b>Output</b>
